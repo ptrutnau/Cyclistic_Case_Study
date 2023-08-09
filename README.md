@@ -4,6 +4,12 @@ On this Repository, i will perform the [Google Data Analytics Capstone Project](
 ## Introduction
 In this case study, i will perform tasks of a junior data analyst for a fictional company named Cyclistic.
 
+## Summary (links)
+Data Source: [here](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+Code:
+
+
 ## Cyclistic
 Cyclistic is a bike-sharing company, which features more that 5800 bikes in 600 different stations across Chicago.
 The bikes can be unlocked from one station and returned to any other station in the system anytime.
@@ -36,3 +42,13 @@ This is public data that can be used to explore how different customer types are
 ## Description of Data
 There are 12 files with naming convention of "YYYYMM-divvy-tripdata". As i mentioned before, each file includes information for one month.
 These are the following columns which are alway the same for each file: ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat,end_lng and member_casual
+
+# Process
+
+## Data Exploration
+Before cleaning the data, i am checking out the data to see if i find any inconsistencies. For the Data exploration Process i used SQL. 
+
+
+
+
+
