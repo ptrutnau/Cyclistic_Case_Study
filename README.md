@@ -45,10 +45,16 @@ These are the following columns which are alway the same for each file: ride_id,
 
 # Process
 
+NOTE: It was not possible to import the whole combined data into excel because it was too big. So in excel before the exploration process, i added the column "day_of_week" in each of the 12 files.
+This column will be important later for my analysis
+
 ## Data Exploration
-Before cleaning the data, i am checking out the data to see if i find any inconsistencies. For the Data exploration Process i used SQL. 
+Before cleaning the data, i am checking out the data to see if i find any inconsistencies. For the Data exploration Process i used R.
 
+### Observations
 
+1. The table shows the datatype of all columns of the dataframe
+   ![alt text](file://datatype.png)
 
 
 
