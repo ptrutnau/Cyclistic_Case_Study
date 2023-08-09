@@ -29,3 +29,10 @@ So working as a junior data analyst for the marketing analytics team, my task is
 use Cyclistic bikes differently. After evaluating the data, the team will make recommendations on how to convert casual riders into annual members.
 
 ## Data Source
+I will use Cyclistic’s historical trip data to analyze and identify trends from jun 2022 to june 2023. So there is a csv file for every month in this period. The data can be downloaded [here](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+This is public data that can be used to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit from using riders’ personally identifiable information. This means that we won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
+
+## Description of Data
+There are 12 files with naming convention of "YYYYMM-divvy-tripdata". As i mentioned before, each file includes information for one month.
+These are the following columns which are alway the same for each file: ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat,end_lng and member_casual
