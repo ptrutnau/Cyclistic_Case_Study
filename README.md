@@ -50,11 +50,34 @@ This column will be important later for my analysis
 
 ## Data Exploration
 Before cleaning the data, i am checking out the data to see if i find any inconsistencies. For the Data exploration Process i used R.
+Code is available HERE
 
 ### Observations
 
 1. The table shows the datatype of all columns of the dataframe
-   ![alt text](file://datatype.png)
+   ![Image](images/datatype.png)
+
+2. Number of NA Values per column
+   ![image](images/NA_values.png)
+
+3. There are no duplicate rows in the data.
+4. Two unique values in the member_casual column. The only possible values for this column are "casual" and "member"
+5. Columns of stations names and coordinates will be removed because they wont be relevant for the analysis.
+
+## Data Cleaning and Data Manipulation
+Code of the cleaning and manipulation process is HERE   
+
+### Process
+1. Removed following columns which are nor relevant for analysis: start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng
+2. Renamed member_casual column to member_type which seemed more appropiate
+3. Added column ride_duration and ride_duration_mins which is the time difference between ended_at and started_at
+4. Filtered unplausible ride durations(everything longer than a day and less than a minute)
+5. Removed 220.218 rows
+
+## Data Analysis
+Code of the analyzing process is HERE
+
+Analyzing question: How do annual members and casual riders use Cyclistic bikes differently?
 
 
 
