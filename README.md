@@ -55,10 +55,10 @@ Code is available HERE
 ### Observations
 
 1. The table shows the datatype of all columns of the dataframe
-   ![Image](images/datatype.png)
+![Image](images/datatype.png)
 
 2. Number of NA Values per column
-   ![image](images/NA_values.png)
+![image](images/NA_values.png)
 
 3. There are no duplicate rows in the data.
 4. Two unique values in the member_casual column. The only possible values for this column are "casual" and "member"
@@ -82,13 +82,13 @@ Analyzing question: How do annual members and casual riders use Cyclistic bikes 
 So to answer this question, i compared member and casual riders by the number of trips they did in a certain period of time aswell as their average ride duration.
 
 First of all, i wanted to know the percentages of the casual riders and members 
- ![image](plots/distribution_members.png)
- As you can see, the members make 60% of the total while the casual riders constitute 40%.
+![image](plots/distribution_members.png)
+As you can see, the members make 60% of the total while the casual riders constitute 40%.
 
- Then, the total amount of trips by months, day of week and hour of the day.
- ![image](plots/total_rides_per_month.png)
- ![image](plots/total_rides_per_weekday.png)
- ![image](plots/total_rides_per_hour.png)
+Then, the total amount of trips by months, day of week and hour of the day.
+![image](plots/total_rides_per_month.png)
+![image](plots/total_rides_per_weekday.png)
+![image](plots/total_rides_per_hour.png)
 
 ### Trips by Month
 Seeing the amount of trips by month, we can see that both casual riders and members show very similar behavior throughout the months, having more trips in the summer months.
