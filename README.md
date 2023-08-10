@@ -79,5 +79,30 @@ Code of the analyzing process is HERE
 
 Analyzing question: How do annual members and casual riders use Cyclistic bikes differently?
 
+So to answer this question, i compared member and casual riders by the number of trips they did in a certain period of time aswell as their average ride duration.
+
+First of all, i wanted to know the percentages of the casual riders and members 
+ ![image](plots/distribution_members.png)
+ As you can see, the members make 60% of the total while the casual riders constitute 40%.
+
+ Then, the total amount of trips by months, day of week and hour of the day.
+ ![image](plots/total_rides_per_month.png)
+ ![image](plots/total_rides_per_weekday.png)
+ ![image](plots/total_rides_per_hour.png)
+
+### Trips by Month
+Seeing the amount of trips by month, we can see that both casual riders and members show very similar behavior throughout the months, having more trips in the summer months.
+Overall the members have made more trips than the casual riders in every month being the closest gap in july.
+
+### Trips by Days of Week
+Comparing the days of week, it can be seen that again the members make more trips than the casual riders being saturday the exception where casual riders made slightly more trips than members.
+Also it is interesting to see, that the members show a decline over the week in contrast to the casual riders which experience a rise over the week having their peak on the weekends.
+
+### Trips y Hours of Day
+The amount of trips for the casual riders increase consistenly over the day until about 5 PM. Then it starts to decrease.
+On the member's side, two peaks can be seen throughout the day. One is early around 8 AM and other around 5 PM.
+
+From the amount of total rides made, we can infer that members tend to use the service for commuting to and from their workplace during the week while 
+the casual riders use the service more freuquently over the weekends which could be for leisure purposes.
 
 
