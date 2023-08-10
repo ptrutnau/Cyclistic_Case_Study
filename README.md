@@ -134,3 +134,5 @@ would be the following:
 2. Offer seasonal or weekend-only memeberships.
 3. In the membership also offer discounts for longer rides.
 
+**NOTE**
+More data is needed to know how many of the casual riders are local residents or just visitors/tourists.
