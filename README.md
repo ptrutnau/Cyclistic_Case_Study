@@ -54,15 +54,17 @@ Code is available [here!](code/data_exploration.R)
 
 ### Observations
 
-1. The table shows the datatype of all columns of the dataframe
-![image](images/datatype.png)
+- The table shows the datatype of all columns of the dataframe.
+  
+![image](images/datatype.PNG)
 
-2. Number of NA Values per column
-![image](images/NA_values.png)
+- Number of NA Values per column
+  
+![image](images/NA_values.PNG)
 
-3. There are no duplicate rows in the data.
-4. Two unique values in the member_casual column. The only possible values for this column are "casual" and "member"
-5. Columns of stations names and coordinates will be removed because they wont be relevant for the analysis.
+- There are no duplicate rows in the data.
+- Two unique values in the member_casual column. The only possible values for this column are "casual" and "member"
+- Columns of stations names and coordinates will be removed because they wont be relevant for the analysis.
 
 ## Data Cleaning and Data Manipulation
 Code of the cleaning and manipulation process is [here!](code/data_cleaning_manipulation.R)   
