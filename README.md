@@ -50,7 +50,7 @@ This column will be important later for my analysis
 
 ## Data Exploration
 Before cleaning the data, i am checking out the data to see if i find any inconsistencies. For the Data exploration Process i used R.
-Code is available HERE
+Code is available [here!](code/data_exploration.R)
 
 ### Observations
 
@@ -65,7 +65,7 @@ Code is available HERE
 5. Columns of stations names and coordinates will be removed because they wont be relevant for the analysis.
 
 ## Data Cleaning and Data Manipulation
-Code of the cleaning and manipulation process is HERE   
+Code of the cleaning and manipulation process is [here!](code/data_cleaning_manipulation.R)   
 
 ### Process
 1. Removed following columns which are nor relevant for analysis: start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng
@@ -75,7 +75,7 @@ Code of the cleaning and manipulation process is HERE
 5. Removed 220.218 rows
 
 ## Data Analysis
-Code of the analyzing process is HERE
+Code of the analyzing process is [here!](code/data_analysis.R)
 
 Analyzing question: How do annual members and casual riders use Cyclistic bikes differently?
 
