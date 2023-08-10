@@ -1,4 +1,4 @@
-setwd("../../Pablo/Documents/Data")
+setwd("/Users/Pablo/Documents/Data")
 # load packages
 source("R_pakete/packages.R")
 
@@ -70,7 +70,8 @@ na_values <- data.frame(
   column = colnames(all_tripdata),
   na_count = sapply(all_tripdata, function(col) sum(is.na(col)))
 )
-
+na_values <- na_values %>% format(na_values$na_count, big.mark = ".", decimal.mark = ",", trim = T)
+  
 # check for duplicate rows
 dup_rows <- sum(duplicated(all_tripdata, fromLast = T) == T)
 
