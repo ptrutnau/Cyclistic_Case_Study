@@ -111,5 +111,26 @@ Now, the average ride durations by months, day of week and hour of the day.
 ![image](plots/ride_duration_per_hour.png)
 
 In all comparisons it can be seen that casual riders usually cycle longer than members on average. 
+The avergae duration of members don't really change considerably throughout the month, week or hour of day.
+On the other side there a bigger variations in how long casual riders cycle depending on the month, day of week or time of day.
+They make longer journeys on the spring and summer months, on the weekends and from 10 AM to 3 PM during the daywhich indicates that they
+might be doing it for recreation purposes.
 
+### Summary
+
+**Casual**
+- Travel around two to three times longer than members but with less frequncy.
+- Use bikes more freuquent throughout the day, over the weekends in summer and spring for leisure.
+
+**Member**
+- Prefer riging on weekdays during commute hours especially in summer and spring
+- Travel with more frequency but rides are shorter
+
+## Recomendations
+After sharing the insights of the different riding behavior between member and casual riders, my recommendations to target casual riders
+would be the following:
+
+1. Introducing memberships which are more appealing to casual riders for the summer months
+2. Offer seasonal or weekend-only memeberships.
+3. Offer discounts for longer rides.
 
