@@ -55,7 +55,7 @@ Code is available HERE
 ### Observations
 
 1. The table shows the datatype of all columns of the dataframe
-![Image](images/datatype.png)
+![image](images/datatype.png)
 
 2. Number of NA Values per column
 ![image](images/NA_values.png)
