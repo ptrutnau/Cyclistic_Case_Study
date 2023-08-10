@@ -60,7 +60,7 @@ Code is available [here!](code/data_exploration.R)
 
 - Number of NA Values per column
   
-![image](images/NA_values.PNG)
+![image](images/na_values.PNG)
 
 - There are no duplicate rows in the data.
 - Two unique values in the member_casual column. The only possible values for this column are "casual" and "member"
