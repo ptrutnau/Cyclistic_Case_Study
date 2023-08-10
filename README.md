@@ -105,4 +105,11 @@ On the member's side, two peaks can be seen throughout the day. One is early aro
 From the amount of total rides made, we can infer that members tend to use the service for commuting to and from their workplace during the week while 
 the casual riders use the service more freuquently over the weekends which could be for leisure purposes.
 
+Now, the average ride durations by months, day of week and hour of the day.
+![image](plots/ride_duration_month.png)
+![image](plots/ride_duration_weekdays.png)
+![image](plots/ride_duration_per_hour.png)
+
+In all comparisons it can be seen that casual riders usually cycle longer than members on average. 
+
 
