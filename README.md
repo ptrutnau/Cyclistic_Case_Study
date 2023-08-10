@@ -130,7 +130,7 @@ might be doing it for recreation purposes.
 After sharing the insights of the different riding behavior between member and casual riders, my recommendations to target casual riders
 would be the following:
 
-1. Introducing memberships which are more appealing to casual riders for the summer months
+1. Introducing memberships which are more appealing to casual riders for the summer months.
 2. Offer seasonal or weekend-only memeberships.
-3. Offer discounts for longer rides.
+3. In the membership also offer discounts for longer rides.
 
