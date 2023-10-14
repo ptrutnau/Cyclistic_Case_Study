@@ -7,7 +7,7 @@ In this case study, i will perform tasks of a junior data analyst for a fictiona
 ## Summary (links)
 Data Source: [here](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
-Code: [here] (https://github.com/ptrutnau/Google_Data_Analytics_Cyclistic_Case_Study/tree/main/code)
+Code: [here](https://github.com/ptrutnau/Google_Data_Analytics_Cyclistic_Case_Study/tree/main/code)
 
 
 ## Cyclistic
