@@ -1,5 +1,4 @@
 # Google Data Analytics Capstone: Cyclistic Case Study
-On this Repository, i will perform the [Google Data Analytics Capstone Project](https://www.coursera.org/learn/google-data-analytics-capstone) (a case study from the Google Data Analytics course).
 
 ## Introduction
 In this case study, i will perform tasks of a junior data analyst for a fictional company named Cyclistic.
